@@ -1,0 +1,73 @@
+
+String Length
+
+String Copy
+
+White Spaces Count
+
+Capital Letters Count 
+
+Small Letters Count
+
+Digits Count
+
+Special Symbols Count         if  (! (   ( A - Z )  && ( a - z )  &&  ( 0 - 9 )  ))
+
+Covert To UPPER
+
+Convert To LOWER
+
+Toggle Case 
+
+===================================================
+
+Vowels  Count    -    AEIOU   aeiou
+
+		Beautiful =>  Vowel Count = 5
+
+===================================================
+
+String Reverse      =>  Karad   =>  daraK
+
+Check Palindrome   =>  AddA => AddA    =   Palindrome
+
+Find Digits From String   -   Form a Number from that Digits
+
+===================================================
+
+
+			cSrc  = "   Ranjit    Ashok     Kumbhar   "
+			
+			Fname = "Ranjit"
+			Mname = "Ashok"
+			Lname = "Kumbhar"
+===================================================
+
+Mobile No Validation
+
+Date  Validation
+
+===================================================
+Src1[40] 
+Src2[20]
+
+Src1 = Hello
+
+Src2 = World
+
+==============================
+strcat_Fork(Src1, Src2);
+
+Src1 = HelloWorld
+
+Src2 = World
+
+
+==============================
+
+
+
+
+Raj  Hel  Gaj HHHello  Harsh  Karad
+
+Hello
